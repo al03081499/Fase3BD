@@ -1,0 +1,6 @@
+hipotesis,descripcion,prueba,estadistico,p_valor,efecto,decision
+H1,"A más horas de estudio, mayor GPA",Correlación de Pearson,r = 0.390,0.0,r = 0.390,Se acepta
+H2,Asistencia < 80 % duplica la proporción de riesgo,Chi-cuadrada,"χ² = 2,184,335.4",0.0,razón = 14.15,Se acepta
+H3,"Con apoyo parental, mejores puntajes",ANOVA de un factor,"F = 1.6, 3.3, 0.6",0.43701738979289273,"η² = 0.000, 0.000, 0.000",Se rechaza o se acepta parcialmente
+H4,Quienes trabajan tienen menor GPA y estudian menos,t de Welch,"t = -0.21, 0.09",0.9282859961103358,"d = -0.000, 0.000",Se rechaza
+H5,Sin Internet aumenta el riesgo (por tipo de escuela),Chi-cuadrada,χ² = 4.3,0.03704738188637469,25.1 % vs 25.0 %,Se acepta

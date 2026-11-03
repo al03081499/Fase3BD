@@ -1,0 +1,5 @@
+real,predicho,n
+Sin riesgo,Sin riesgo,1119895
+En riesgo,Sin riesgo,223244
+Sin riesgo,En riesgo,79887
+En riesgo,En riesgo,176839
